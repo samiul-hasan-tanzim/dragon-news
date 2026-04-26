@@ -3,7 +3,7 @@ import Link from 'next/link';
 import React from 'react';
 
 const NewsCard = ({ news }) => {
-    console.log(news)
+    // console.log(news)
     return (
         <div className="card bg-base-100 w-96 shadow-sm">
             <div className="card-body">
